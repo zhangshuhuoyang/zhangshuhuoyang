@@ -1,16 +1,21 @@
-## Hi there 👋
+### 你好，我是 zhangshuhuoyang
 
-<!--
-**zhangshuhuoyang/zhangshuhuoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+职业本科在读 · 大数据工程技术方向
 
-Here are some ideas to get you started:
+正在把「数据分析」和「嵌入式硬件」两条线拧到一起。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**在做的事**
+
+- **嵌入式 AI 项目** —— 从 ESP32-S3 起步，目标先把「输入归一化管线」跑通
+- **数据竞赛** —— 图像二分类方向，边学边赛
+- **系统补基础** —— Python、C、Git
+
+**常用工具**
+
+`Python` · `C` · `Arduino / ESP32` · `Git`
+
+---
+
+> 记录比天赋可靠。
